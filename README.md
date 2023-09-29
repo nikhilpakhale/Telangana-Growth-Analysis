@@ -9,5 +9,5 @@ This project was my submission for the Codebasics Resume Project Challenge #7 in
 2. [LinkedIn Post](https://www.linkedin.com/posts/nikhilpakhale_codebasicsresumeprojectchallenge-crpc7-opendatatelangana-activity-7113478549403017216-NdnP?utm_source=share&utm_medium=member_desktop) <br>
 3. [Video Presentation](https://www.youtube.com/watch?v=YkBhxibExMI)
 
-**Data Model:**
+**Data Model:** <br>
 ![image](https://github.com/nikhilpakhale/Telangana-Growth-Analysis/assets/139328207/45352452-3ec4-4f90-980c-18cb21a6eb6b)
